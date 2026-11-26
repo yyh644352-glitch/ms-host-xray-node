@@ -1,0 +1,1 @@
+{"log":{"loglevel":"warning"},"inbounds":[{"port":3000,"protocol":"vless","settings":{"clients":[{"id":"fcbc4fad-c997-4bd3-8d7b-f60d7f091000","flow":""}],"decryption":"none"},"streamSettings":{"network":"ws","wsSettings":{"path":"/ws-a21a68da"}}}],"outbounds":[{"protocol":"freedom","tag":"direct"}]}
